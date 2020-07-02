@@ -1,0 +1,50 @@
+
+body{
+	background-color: #f4f4f4;
+	background-image: url("img/bgs.png");
+ 	background-size: 100%;
+ 	background-repeat: no-repeat;
+}
+ 
+ .mt-10{
+ 	margin-top: 20px;
+ }
+ .mt-50{
+ 	margin-top: 50px;
+ }
+
+ .pos{
+ 	position: absolute;
+ }
+ .imginput{ 
+  background-image: url('img/ico1.png');
+  background-position: left top;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.bd{
+	border-radius: 10px;
+	margin: 100% auto;
+	margin-left: 50%; 
+}
+.modal-body {
+    position: relative;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 3rem;
+}
+.rt{
+	float: right;
+	margin-top: 7px;
+}
+.md-st{
+	    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.inbg{
+	background-color: #e5e5e5;
+}
+.cen{
+	margin: 20% auto;
+}
